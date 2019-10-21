@@ -1,0 +1,7 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+		"http://www.springframework.org/dtd/spring-beans.dtd">
+		<beans>
+		<bean class="bean.BeanOne" id="obj1" singleton="false"/>
+		<bean class="bean.BeanTwo" id="obj2" singleton="false"/>
+		
+		</beans>
